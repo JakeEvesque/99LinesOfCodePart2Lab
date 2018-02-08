@@ -1,0 +1,17 @@
+body {
+    background-color: crimson;
+}
+
+h1 {
+    color:white;
+}
+
+.friend {
+    background-color: white;
+    color: crimson;
+}
+
+.friend h3 {
+    text-transform: uppercase;
+    
+}
